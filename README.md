@@ -47,7 +47,7 @@ We have developed a function to sort players in descending order based on their 
 |   ID   |     Name    |   BOV  |  Country  |          Club            |  Position  |  Price  |
 | ------ | ----------- | ------ | --------- | ------------------------ | ---------- | ------- |
 | 216409 | M. Politano |   81   |   Italy   |           Napoli         |     RM     |   19M   |
-| 211147 | V. Lazaro B |   80   |  Austria  | Borussia Mönchengladbach |     RM     |   16M   |
+| 211147 | V. Lazaro   |   80   |  Austria  | Borussia Mönchengladbach |     RM     |   16M   |
 | 220477 | M. Caldara  |   79   |   Italy   |        Atalanta          |     CB     |   12M   | 
 
 #### Total 47M
