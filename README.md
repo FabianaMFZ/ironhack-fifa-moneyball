@@ -44,7 +44,7 @@ We have developed a function to sort players in descending order based on their 
 
 #### Our 3 Players
 
-|   ID   |     Name    |   BOV  |  Country  |          Club            |  Position  |  Value  |
+|   ID   |     Name    |   OVA  |  Country  |          Club            |  Position  |  Value  |
 | ------ | ----------- | ------ | --------- | ------------------------ | ---------- | ------- |
 | 216409 | M. Politano |   81   |   Italy   |           Napoli         |     RM     |   19M   |
 | 211147 | V. Lazaro   |   80   |  Austria  | Borussia Mönchengladbach |     RM     |   16M   |
